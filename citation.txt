@@ -1,7 +1,6 @@
 @inproceedings{REPO360,
     author = "Yang, Yiyuan and Zhang, Chaoli and Zhou, Tian and Wen, Qingsong and Sun, Liang",
     booktitle = "Proc. 29th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (KDD 2023)",
-    location = "Long Beach, CA",
     pages = "3033–3045",
     title = "{DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection}",
     year = "2023"
