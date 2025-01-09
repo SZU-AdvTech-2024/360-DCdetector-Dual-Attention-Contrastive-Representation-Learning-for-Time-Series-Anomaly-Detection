@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zpp@172.31.226.205:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zpp@172.31.226.205:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/data/zpp/DCdetector" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
